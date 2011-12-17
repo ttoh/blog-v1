@@ -4,7 +4,7 @@
 
 url: http://pixelsandwidgets.com
 title: Pixels and Widgets
-subtitle: The personal blog of Tai Toh
+subtitle: by Tai Toh
 author: Tai Toh
 simple_search: http://google.com/search
 description:
@@ -94,7 +94,7 @@ disqus_show_comment_count:
 
 # Disqus Comments
 # disqus_short_name: pixelsandwidgets
-#disqus_show_comment_count: true
+# disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
