@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "about"
+title: "About"
 date: 2011-12-13 23:55
 comments: false
-sharing: true
-footer: true
+sharing: false
+footer: false
 ---
 
 My name is Tai Toh. Professionally, I work as a User Experience Architect in Toronto, Canada. My current employer is [kobo](http://kobo.com/ "Get your eBooks here") where I work as the Director of User Experience. I get to do a lot of amazing stuff and I have an absolutely first-class team there. 
